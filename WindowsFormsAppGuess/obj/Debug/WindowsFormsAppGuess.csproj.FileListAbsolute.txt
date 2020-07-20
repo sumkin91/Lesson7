@@ -1,0 +1,10 @@
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppGuess\bin\Debug\WindowsFormsAppGuess.exe.config
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppGuess\bin\Debug\WindowsFormsAppGuess.exe
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppGuess\bin\Debug\WindowsFormsAppGuess.pdb
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppGuess\obj\Debug\WindowsFormsAppGuess.csprojAssemblyReference.cache
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppGuess\obj\Debug\WindowsFormsAppGuess.Form1.resources
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppGuess\obj\Debug\WindowsFormsAppGuess.Properties.Resources.resources
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppGuess\obj\Debug\WindowsFormsAppGuess.csproj.GenerateResource.cache
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppGuess\obj\Debug\WindowsFormsAppGuess.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppGuess\obj\Debug\WindowsFormsAppGuess.exe
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppGuess\obj\Debug\WindowsFormsAppGuess.pdb

@@ -1,0 +1,9 @@
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppMulti\bin\Release\WindowsFormsAppMulti.exe.config
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppMulti\bin\Release\WindowsFormsAppMulti.exe
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppMulti\bin\Release\WindowsFormsAppMulti.pdb
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppMulti\obj\Release\WindowsFormsAppMulti.Form1.resources
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppMulti\obj\Release\WindowsFormsAppMulti.Properties.Resources.resources
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppMulti\obj\Release\WindowsFormsAppMulti.csproj.GenerateResource.cache
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppMulti\obj\Release\WindowsFormsAppMulti.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppMulti\obj\Release\WindowsFormsAppMulti.exe
+C:\Users\Fedor\Desktop\C#\Lesson7\WindowsFormsAppMulti\obj\Release\WindowsFormsAppMulti.pdb
