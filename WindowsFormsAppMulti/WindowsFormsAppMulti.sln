@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppMulti", "WindowsFormsAppMulti.csproj", "{7281712D-FD41-429B-860C-DB9520216BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppGuess", "..\WindowsFormsAppGuess\WindowsFormsAppGuess.csproj", "{087C91BB-5B82-4E64-9EDB-ED359D6A612C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7281712D-FD41-429B-860C-DB9520216BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7281712D-FD41-429B-860C-DB9520216BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7281712D-FD41-429B-860C-DB9520216BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7281712D-FD41-429B-860C-DB9520216BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087C91BB-5B82-4E64-9EDB-ED359D6A612C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087C91BB-5B82-4E64-9EDB-ED359D6A612C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087C91BB-5B82-4E64-9EDB-ED359D6A612C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087C91BB-5B82-4E64-9EDB-ED359D6A612C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E03495-2D43-4FCA-B278-DA4E492F1316}
+	EndGlobalSection
+EndGlobal
